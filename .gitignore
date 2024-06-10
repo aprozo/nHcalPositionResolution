@@ -1,3 +1,7 @@
+out.txt
+*C.so
+.vscode/
+
 # Prerequisites
 *.d
 
